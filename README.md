@@ -109,6 +109,31 @@ A successful project requires clear responsibilities and collaborative effort fr
 
 Each team member plays a vital role in delivering a high-quality, user-centered booking platform that aligns with business goals and technical best practices.
 
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and scalability across the Airbnb Clone application, the following UI components will be designed and implemented:
+
+### 🔹 Navbar
+- Contains the logo, search input, and user navigation menu
+- Responsive menu toggle for mobile views
+- May include language selector or login/logout buttons
+
+### 🔹 Property Card
+- Displays a preview of each property on listing pages
+- Includes image, name/title, location, price per night, and rating
+- Favorite/like button for quick saves
+- Designed for responsiveness in grid layouts
+
+### 🔹 Footer
+- Contains links to company info, privacy policy, and terms
+- Social media icons and contact information
+- Copyright notice
+- Maintains consistent spacing and accessibility structure
+
+---
+
+Each component will follow modern accessibility and responsive design best practices. Components will be styled consistently using the previously defined color and typography guidelines, and will be built with scalability in mind for integration with dynamic data as the project progresses
+
 
 
 
