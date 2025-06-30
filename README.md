@@ -92,5 +92,23 @@ A well-crafted UI/UX in a booking system ensures that users move from browsing t
 
 Identifying design properties such as color styles and typography during the mockup phase ensures **visual consistency**, improves **developer-designer communication**, and speeds up the front-end development process. It also helps maintain brand identity, enhances **usability and accessibility**, and ensures that every visual element contributes to a cohesive, user-friendly experience.
 
+## 🧑🏽‍💼 Project Roles and Responsibilities
+
+A successful project requires clear responsibilities and collaborative effort from a cross-functional team. Below are the key roles and their contributions to the development of the Airbnb Clone project:
+
+| **Role**               | **Responsibilities**                                                                                                                                       |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees the entire project timeline, manages team coordination, tracks deliverables, and ensures that goals are met within scope and deadline.             |
+| **Frontend Developers**| Convert designs into responsive, accessible user interfaces using HTML, CSS, and JavaScript. Implement interactivity and ensure cross-browser compatibility. |
+| **Backend Developers** | Develop and maintain server-side logic, create and manage APIs, handle database interactions, and implement security features.                             |
+| **Designers**          | Create wireframes, UI mockups, and design components in tools like Figma. Ensure consistency in layout, typography, color, and overall user experience.     |
+| **QA/Testers**         | Write test plans and scripts, execute tests (manual or automated), identify bugs, and ensure software meets quality standards before deployment.             |
+| **DevOps Engineers**   | Set up CI/CD pipelines, automate deployment processes, manage hosting environments, monitor system health and performance.                                 |
+| **Product Owner**      | Defines project requirements and priorities, represents the client or end-user perspective, and ensures the final product aligns with stakeholder goals.    |
+| **Scrum Master**       | Facilitates Agile processes, organizes daily stand-ups, removes blockers, ensures smooth team communication and adherence to Scrum practices.               |
+
+Each team member plays a vital role in delivering a high-quality, user-centered booking platform that aligns with business goals and technical best practices.
+
+
 
 
