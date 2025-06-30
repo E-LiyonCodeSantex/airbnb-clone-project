@@ -68,4 +68,29 @@ This is a simplified **Airbnb web clone** developed as part of the ALX Software 
 
 A well-crafted UI/UX in a booking system ensures that users move from browsing to booking with minimal friction. Clear navigation, accessible layouts, responsive designs, and fast load times all enhance usability and increase conversion rates. Happy users are more likely to trust the platform, return in the future, and recommend it to others.
 
+### 🎨 Color Styles
+
+- **Primary Color:** #FF5A5F (used for call-to-actions and highlights)
+- **Secondary Color:** #008489 (used for accents and navigation elements)
+- **Background Color:** #FFFFFF (clean, neutral base)
+- **Primary Text Color:** #222222 (main body text)
+- **Secondary Text Color:** #717171 (subtle, supporting text)
+
+---
+
+### 🅰️ Typography
+
+| **Element**       | **Font Family** | **Font Weight** | **Font Size**   |
+|------------------|------------------|------------------|------------------|
+| Primary Font     | Circular         | Medium (500)     | 16px             |
+| Headings         | Circular         | Bold (700)       | 24px – 32px      |
+| Secondary Text   | Circular         | Book (400)       | 14px             |
+
+---
+
+### 🧠 Importance of Identifying Design Properties in Mockups
+
+Identifying design properties such as color styles and typography during the mockup phase ensures **visual consistency**, improves **developer-designer communication**, and speeds up the front-end development process. It also helps maintain brand identity, enhances **usability and accessibility**, and ensures that every visual element contributes to a cohesive, user-friendly experience.
+
+
 
